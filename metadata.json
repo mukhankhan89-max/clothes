@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Atelier",
+  "description": "Luxury women's fashion storefront offering curated dresses, eastern and western couture, modest abayas, co-ord sets, and effortless WhatsApp concierge ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
